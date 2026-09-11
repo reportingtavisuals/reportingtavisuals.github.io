@@ -151,7 +151,7 @@ function App() {
         <div className="hero-intro">
           <p className="eyebrow">Beyond the Wall of Text</p>
           <h1 className="hero-title">
-            Practices in Visualizing Results of Thematic Analysis
+            Practices in Visualizing Thematic Analysis Results
           </h1>
           <p className="hero-copy"></p>
         </div>
