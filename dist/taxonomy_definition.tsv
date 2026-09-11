@@ -1,0 +1,38 @@
+Taxonomy	Level	Name	Parent	Definition
+Data Type	Main	Theme		Direct outcomes of thematic analysis representing recurring patterns of meaning related to the research question.
+Data Type	Sub	Taxonomy	Theme	Hierarchical structures mapping the relationships between themes and Subs. 
+Data Type	Sub	Definition	Theme	Textual definitions or descriptions explaining specific themes. 
+Data Type	Sub	Example	Theme	Concrete data examples used for detailed explanations of themes. 
+Data Type	Sub	Source	Theme	Data origins specifying where specific themes came from. 
+Data Type	Sub	Other theme	Theme	Thematic outcomes that cannot be categorized within standard boundaries. 
+Data Type	Main	Concept		Higher-level abstract ideas derived by further refining the initial themes. 
+Data Type	Sub	Model/FMK	Concept	Novel conceptual structures or models that emerged from thematic analysis. 
+Data Type	Sub	Design Insight	Concept	Actionable insights, such as design implications, intended for future design.
+Data Type	Sub	Example	Concept	Concrete examples illustrating the application of a model, framework, or design insight.
+Data Type	Main	Quantitatives		Numerical data metrics directly related to or measuring the themes. 
+Data Type	Sub	Frequency	Quantitatives	Quantitative counts representing the frequencies of each theme. 
+Data Type	Sub	Obj-measured	Quantitatives	Objectively-measured quantitative values (e.g., time, accuracy).
+Data Type	Sub	Self-reported	Quantitatives	Subjective, self-reported quantitative values (e.g., SUS, NASA-TLX scores).
+Visual Encoding	Main	Grid		Structured visual representations organizing data into a grid of rows and columns.
+Visual Encoding	Sub	Table	Grid	Text-centric grid layouts designed for detailed reading where cells contain alphanumeric data.
+Visual Encoding	Sub	Matrix	Grid	Visual-centric grid layouts designed for scanning relationships, where cells contain discrete visual marks.
+Visual Encoding	Sub	Heatmap	Grid	Value-centric grid layouts utilizing color intensity to visually encode magnitude, frequency, or density.
+Visual Encoding	Main	Diagram		Schematic representations illustrating relationships between conceptual entities. 
+Visual Encoding	Sub	Block diagram	Diagram	Diagrams laying out information in schematic blocks without explicit interconnections to show grouping and categorization.
+Visual Encoding	Sub	Network diagram	Diagram	Diagrams illustrating relationships by explicitly connecting blocks with lines.
+Visual Encoding	Sub	Euler diagram	Diagram	Diagrams using spatial areas to represent relationships, such as Venn diagrams and Onion diagrams.
+Visual Encoding	Sub	Other diagram	Diagram	Any diagram variants that do not fit the primary classifications.
+Visual Encoding	Main	Image		Visual representations capturing a specific scene or concept visually.
+Visual Encoding	Sub	Photo	Image	Images that capture real-world scenes.
+Visual Encoding	Sub	Screenshot	Image	Images that depict digital content captured directly from screens.
+Visual Encoding	Sub	Sketch	Image	Images consisting of hand-drawn or hand-written rough drawings and texts.
+Visual Encoding	Sub	Illustration	Image	Images consisting of polished graphics generated via design tools.
+Visual Encoding	Main	Chart		Graphics mapping quantitative data to distinct visual elements.
+Visual Encoding	Sub	Bar chart	Chart	Charts representing quantitative values primarily through bar heights.
+Visual Encoding	Sub	Grouped bar	Chart	A subcategory of bar charts that groups multiple bars together for comparison. 
+Visual Encoding	Sub	Stacked bar	Chart	A subcategory of bar charts that stacks bars vertically to show part-to-whole relationships. 
+Visual Encoding	Sub	Range symbol	Chart	Charts incorporating visual indicators for errors or confidence intervals.
+Visual Encoding	Sub	Box plot	Chart	Charts used to demonstrate statistically valid differences in scores or distributions. 
+Visual Encoding	Sub	Other chart	Chart	Charts with low appearance rates that are not subcategorized (e.g., line charts, scatterplots).
+Visual Encoding	Main	Msc. Vis		Miscellaneous visual representations that do not fit into the primary visual encoding taxonomies.
+Visual Encoding	Sub	Msc. Vis	Msc. Vis	Miscellaneous visual representations that do not fit into the primary visual encoding taxonomies.

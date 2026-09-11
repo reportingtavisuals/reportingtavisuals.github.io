@@ -1,0 +1,732 @@
+	Index	Paper	Venue	Valid Item	Research Step	Data type	Data sub	Visual encoding	Visual sub	Note	Visual main	Data main
+0	1	It Is Not Always Discovery Time': Four Pragmatic Approaches in Designing AI Systems	CHI	Figure1	Result	Theme	Definition	Diagram	Block diagram, Network diagram, Euler diagram, Other diagram		Diagram	Theme
+1	2	It Is Not Always Discovery Time': Four Pragmatic Approaches in Designing AI Systems	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Other diagram		Diagram	Concept
+2	3	She's Just My Life': Digital Design to Support Women's Self-Other Care in Relationships with their Mothers	CHI	Figure3	Result	Concept	Design insight	Diagram	Other diagram, Illustration	Just illustration?	Diagram, Image	Concept
+3	4	She's Just My Life': Digital Design to Support Women's Self-Other Care in Relationships with their Mothers	CHI	Figure4	Result	Concept	Design insight	Diagram	Other diagram, Illustration		Diagram, Image	Concept
+4	5	She's Just My Life': Digital Design to Support Women's Self-Other Care in Relationships with their Mothers	CHI	Figure5	Result	Concept	Design insight	Diagram	Other diagram, Illustration		Diagram, Image	Concept
+5	6	She's Just My Life': Digital Design to Support Women's Self-Other Care in Relationships with their Mothers	CHI	Figure6	Result	Concept	Design insight	Diagram	Other diagram, Illustration		Diagram, Image	Concept
+6	7	She's Just My Life': Digital Design to Support Women's Self-Other Care in Relationships with their Mothers	CHI	Figure7	Result	Concept	Design insight	Diagram	Other diagram, Illustration		Diagram, Image	Concept
+7	8	She's Just My Life': Digital Design to Support Women's Self-Other Care in Relationships with their Mothers	CHI	Figure8	Result	Concept	Design insight	Diagram	Other diagram, Illustration		Diagram, Image	Concept
+8	9	"Auntie, Please Don't Fall for Those Smooth Talkers": How Chinese Younger Family Members Safeguard Seniors from Online Fraud	CHI	Table1	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+9	10	"Auntie, Please Don't Fall for Those Smooth Talkers": How Chinese Younger Family Members Safeguard Seniors from Online Fraud	CHI	Figure3	Discussion	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+10	11	"Don't Forget the Teachers": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education	CHI	Table3	Result	Theme	Taxonomy, tOther	Table/Matrix	Table	Attribute	Table/Matrix	Theme
+11	12	"Don't Forget the Teachers": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education	CHI	Table4	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+12	13	"Even Though I Went Through Everything, I Didn't Feel Like I Learned a Lot": Insights From Experiences of Non-Computer Science Students Learning to Code	CHI	Figure1	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+13	14	"Human, All Too Human": NOAA Weather Radio and the Emotional Impact of Synthetic Voices	CHI	Table1	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+14	15	"Human, All Too Human": NOAA Weather Radio and the Emotional Impact of Synthetic Voices	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+15	16	"Human, All Too Human": NOAA Weather Radio and the Emotional Impact of Synthetic Voices	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+16	17	"I Don't Want To Shoot The Android": Players Translate Real-Life Moral Intuitions to In-Game Decisions in Detroit: Become Human	CHI	Figure4	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+17	18	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure1	Result	Theme	Example	Image	Screenshot		Image	Theme
+18	19	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+19	20	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+20	21	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+21	22	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+22	23	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Table3	Result	Theme	Taxonomy, tOther	Table/Matrix	Table, Matrix	Attribute	Table/Matrix	Theme
+23	24	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+24	25	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+25	26	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+26	27	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure9	Result	Theme	Example	Image	Screenshot		Image	Theme
+27	28	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure10	Discussion	Concept	cExample	Image	Illustration		Image	Concept
+28	29	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure11	Discussion	Concept	cExample	Image	Illustration		Image	Concept
+29	30	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure12	Result	Theme	Example	Image	Screenshot		Image	Theme
+30	31	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure13	Result	Theme	Example	Image	Screenshot		Image	Theme
+31	32	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure14	Result	Theme	Example	Image	Screenshot		Image	Theme
+32	33	"I See You!": A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames	CHI	Figure15	Result	Theme	Example	Image	Screenshot		Image	Theme
+33	34	"I Want to Be Unique From Other Robots": Positioning Girls as Co-creators of Social Robots in Culturally-Responsive Computing Education	CHI	Figure2	Result	Theme	Definition	Diagram	Block diagram		Diagram	Theme
+34	35	"I Will Not Drink With You Today": A Topic-Guided Thematic Analysis of Addiction Recovery on Reddit	CHI	Table1	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+35	36	"I Will Not Drink With You Today": A Topic-Guided Thematic Analysis of Addiction Recovery on Reddit	CHI	Table2	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+36	37	"If It's Important It Will Be A Headline": Cybersecurity Information Seeking in Older Adults	CHI	Table1	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+37	38	"If It's Important It Will Be A Headline": Cybersecurity Information Seeking in Older Adults	CHI	Figure2	Discussion	Concept	Model/Framework	Chart	Other chart		Chart	Concept
+38	39	"Is This Seat Accessible for Me?": An Autoethnography of a Person With a Mobility Disability Using Interactive Seat Plans for Public Events	CHI	Figure2	Result	Theme	Example	Image	Illustration		Image	Theme
+39	40	"Is This Seat Accessible for Me?": An Autoethnography of a Person With a Mobility Disability Using Interactive Seat Plans for Public Events	CHI	Figure3	Discussion	Concept	cExample	Image	Illustration		Image	Concept
+40	41	"It Is Easy Using My Apps:" Understanding Technology Use and Needs of Adults with Down Syndrome	CHI	Figure3	Result	Theme	Taxonomy, Example	Diagram	Block diagram		Diagram	Theme
+41	42	"It Is Easy Using My Apps:" Understanding Technology Use and Needs of Adults with Down Syndrome	CHI	Figure4	Discussion	Concept	Design insight	Diagram	Block diagram		Diagram	Concept
+42	43	"Obviously, Nothing's Gonna Happen in Five Minutes": How Adolescents and Young Adults Infrastructure Resources to Learn Type 1 Diabetes Management	CHI	Table2	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+43	44	"Obviously, Nothing's Gonna Happen in Five Minutes": How Adolescents and Young Adults Infrastructure Resources to Learn Type 1 Diabetes Management	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Network diagram	Borderless	Diagram	Concept
+44	45	"React", "Command", or "Instruct"? Teachers Mental Models on End-User Development	CHI	Table2	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+45	46	"React", "Command", or "Instruct"? Teachers Mental Models on End-User Development	CHI	Table3	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+46	47	"React", "Command", or "Instruct"? Teachers Mental Models on End-User Development	CHI	Table4	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+47	48	"React", "Command", or "Instruct"? Teachers Mental Models on End-User Development	CHI	Table5	Result	Quantitative	Frequency, Source	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+48	49	"React", "Command", or "Instruct"? Teachers Mental Models on End-User Development	CHI	Table6	Result	Quantitative	Frequency	Table/Matrix	Table	Distribution	Table/Matrix	Quantitative
+49	50	"Speech is Silver, Silence is Golden " Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Block diagram	Borderless	Diagram	Concept
+50	51	"This app said I had severe depression, and now I don't know what to do": the unintentional harms of mental health applications	CHI	Figure2	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+51	52	"Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities	CHI	Figure6	Result	Quantitative	Frequency, Taxonomy	Chart	Grouped bar		Chart	Quantitative, Theme
+52	53	"Ultimately, it's a matter of safety, and resisting ostracization": Understanding Neurodivergent Masking with Online Communities	CHI	Figure2	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+53	54	"Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations	CHI	Figure4	Result	Theme	Taxonomy	MscVis	MscVis	Text	MscVis	Theme
+54	55	"Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+55	56	"Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+56	57	"Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+57	58	"Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+58	59	(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space	CHI	Figure2	Result	Theme	Definition	Image	Illustration		Image	Theme
+59	60	(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space	CHI	Figure3	Result	Theme	Definition	Image	Illustration		Image	Theme
+60	61	(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space	CHI	Figure4	Result	Theme	Definition	Image	Illustration		Image	Theme
+61	62	(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space	CHI	Figure5	Result	Theme	Definition	Image	Illustration		Image	Theme
+62	63	(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space	CHI	Figure6	Result	Theme	Definition	Image	Illustration		Image	Theme
+63	64	(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space	CHI	Figure7	Discussion	Concept	Model/Framework	Diagram	Network diagram, Illustration		Diagram, Image	Concept
+64	65	A Change of Scenery: Transformative Insights from Retrospective VR Embodied Perspective-Taking of Conflict With a Close Other	CHI	Figure3	Result	Theme	Taxonomy, Definition, Frequency	Table/Matrix	Table	Attribute	Table/Matrix	Quantitative, Theme
+65	66	A Framework for Speechreading Acquisition Tools	CHI	Figure1	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+66	67	A Framework for Speechreading Acquisition Tools	CHI	Figure2	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+67	68	A Framework for Speechreading Acquisition Tools	CHI	Figure3	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+68	69	A Framework for Speechreading Acquisition Tools	CHI	Figure4	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+69	70	A Framework for Speechreading Acquisition Tools	CHI	Figure5	Result	Concept	cExample	Image	Screenshot		Image	Concept
+71	72	A Need-Finding Study with Users of Geospatial Data	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+72	73	A Need-Finding Study with Users of Geospatial Data	CHI	Figure7	Result	Theme	Example	Diagram	Other diagram	Timeline	Diagram	Theme
+73	74	A Qualitative Investigation of User Transitions and Frictions in Cross-Reality Applications	CHI	Table1	Result	Theme	Taxonomy, Frequency, tOther	Table/Matrix	Table, Matrix	Attribute	Table/Matrix	Quantitative, Theme
+74	75	A Stakeholder Value Framework for Augmentative and Alternative Communication	CHI	Table3	Result	Theme	Taxonomy, Definition, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+75	76	A Stakeholder Value Framework for Augmentative and Alternative Communication	CHI	Table4	Result	Theme	Frequency, Source	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+76	77	A Stakeholder Value Framework for Augmentative and Alternative Communication	CHI	Table5	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+77	78	A Stakeholder Value Framework for Augmentative and Alternative Communication	CHI	Table6	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+78	79	A Stakeholder Value Framework for Augmentative and Alternative Communication	CHI	Table7	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+79	80	A Stakeholder Value Framework for Augmentative and Alternative Communication	CHI	Table8	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+80	81	A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies	CHI	Figure1	Result	Theme	Taxonomy, Definition, Example	Diagram	Block diagram		Diagram	Theme
+81	82	A Taxonomy of Linguistic Expressions That Contribute To Anthropomorphism of Language Technologies	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+82	83	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Table1	Result	Quantitative	Frequency, Source	Table/Matrix	Matrix		Table/Matrix	Quantitative, Theme
+83	84	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Table2	Result	Theme	Taxonomy, Source	Table/Matrix	Matrix		Table/Matrix	Theme
+84	85	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+85	86	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+86	87	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+87	88	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+88	89	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+89	90	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+90	91	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+91	92	About Engaging and Governing Strategies: A Thematic Analysis of Dark Patterns in Social Networking Services	CHI	Figure9	Result	Concept	Design insight	Table/Matrix	Matrix, Illustration		Image, Table/Matrix	Concept
+92	93	Advancing HCI with Neuromorphic Technology: Guidelines for Designing User-Friendly Developer Tools for Neuromorphic Development	CHI	Figure2	Result	Theme	Taxonomy, tOther	Diagram	Network diagram, Euler diagram		Diagram	Theme
+93	94	Advancing HCI with Neuromorphic Technology: Guidelines for Designing User-Friendly Developer Tools for Neuromorphic Development	CHI	Figure3	Result	Concept	cExample	Diagram	Photo, Screenshot, Block diagram	Workflow	Diagram, Image	Concept
+96	97	Attached to "The Algorithm": Making Sense of Algorithmic Precarity on Instagram	CHI	Table2	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+97	98	Barriers to Expertise in Citizen Science Games	CHI	Figure2	Result	Theme	tOther	Diagram	Other diagram	Path and Barriers	Diagram	Theme
+98	99	Barriers to Expertise in Citizen Science Games	CHI	Table3	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+99	100	Barriers to Photosensitive Accessibility in Virtual Reality	CHI	Table2	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+100	101	Barriers to Photosensitive Accessibility in Virtual Reality	CHI	Figure1	Discussion	Concept	cExample	Image	Screenshot		Image	Concept
+101	102	Barriers to Photosensitive Accessibility in Virtual Reality	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+102	103	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure3	Result	Theme	Definition	Image	Illustration		Image	Theme
+103	104	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure4	Result	Theme	Definition	Image	Illustration		Image	Theme
+104	105	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure5	Result	Theme	Definition	Image	Illustration		Image	Theme
+105	106	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure6	Result	Theme	Definition	Image	Illustration		Image	Theme
+106	107	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure7	Result	Theme	Definition	Image	Illustration		Image	Theme
+107	108	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure8	Result	Theme	Definition	Image	Illustration		Image	Theme
+108	109	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure9	Result	Theme	Definition	Image	Illustration		Image	Theme
+109	110	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure10	Result	Theme	Definition	Image	Illustration		Image	Theme
+110	111	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure11	Result	Theme	Definition	Image	Illustration		Image	Theme
+111	112	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure12	Result	Theme	Definition	Image	Illustration		Image	Theme
+112	113	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure13	Result	Theme	Definition	Image	Illustration		Image	Theme
+113	114	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure14	Result	Theme	Definition	Image	Illustration		Image	Theme
+114	115	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Table2	Result	Theme	Source	Table/Matrix	Matrix	Citation	Table/Matrix	Theme
+115	116	Beyond Vacuuming: How Can We Exploit Domestic Robots' Idle Time?	CHI	Figure15	Result	Theme	Taxonomy, Definition, Frequency	Diagram	Block diagram, Illustration	Borderless	Diagram, Image	Quantitative, Theme
+116	117	Bittersweet Snapshots of Life: Designing to Address Complex Emotions in a Reminiscence Interaction between Older Adults and a Robot	CHI	Figure2	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+118	119	Bones of Contention: Social Acceptance of Digital Cemetery Technologies	CHI	Table3	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+119	120	Bridging AI and Humanitarianism: An HCI-Informed Framework for Responsible AI Adoption	CHI	Table2	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+120	121	Building an Ethics-Focused Action Plan: Roles, Process Moves, and Trajectories	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+121	122	Building an Ethics-Focused Action Plan: Roles, Process Moves, and Trajectories	CHI	Table3	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+124	125	Characterizing Social Insider Attacks on Facebook	CHI	Figure5	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+125	126	CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs	CHI	Table1	Result	Theme	Taxonomy, tOther	Table/Matrix	Table	Reliability	Table/Matrix	Theme
+126	127	CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs	CHI	Figure8	Discussion	Concept	Design insight	Diagram	Block diagram		Diagram	Concept
+132	133	Collaborative or Simply Uncaged? Understanding Human-Cobot Interactions in Automation	CHI	Figure3	Result	Theme	Definition	MscVis	MscVis	Text	MscVis	Theme
+133	134	Comic-making to Study Game-making: Using Comics in Qualitative Longitudinal Research on Game Development	CHI	Figure7	Result	Concept	cExample	Image	Illustration		Image	Concept
+134	135	Communication, Collaboration, and Coordination in a Co-located Shared Augmented Reality Game: Perspectives From Deaf and Hard of Hearing People	CHI	Figure6	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+135	136	Contestable Camera Cars: A Speculative Design Exploration of Public AI That Is Open and Responsive to Dispute	CHI	Table2	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+136	137	Contestable Camera Cars: A Speculative Design Exploration of Public AI That Is Open and Responsive to Dispute	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+137	138	Crafting Champions: An Observation Study of Esports Coaching Processes	CHI	Figure2	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+138	139	Crafting Champions: An Observation Study of Esports Coaching Processes	CHI	Figure3	Result	Theme	Taxonomy	Diagram	Block diagram		Diagram	Theme
+139	140	Crafting Champions: An Observation Study of Esports Coaching Processes	CHI	Figure4	Result	Quantitative	Frequency	Chart	Grouped bar		Chart	Quantitative
+140	141	Crafting Champions: An Observation Study of Esports Coaching Processes	CHI	Figure5	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+141	142	Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality	CHI	Table1	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+142	143	Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality	CHI	Table2	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+143	144	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Figure1	Result	Theme	Taxonomy, tOther	Diagram	Network diagram	Block + arrow	Diagram	Theme
+144	145	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Table4	Result	Theme	Definition, Source	Table/Matrix	Table	Source	Table/Matrix	Theme
+145	146	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Table5	Result	Theme	Definition, Source	Table/Matrix	Table	Source	Table/Matrix	Theme
+146	147	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Table6	Result	Theme	Definition, Source	Table/Matrix	Table	Source	Table/Matrix	Theme
+147	148	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+148	149	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+149	150	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+150	151	Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+151	152	Designing Brutal Multiplayer Video Games	CHI	Figure4	Result	Theme	Example	Image	Photo		Image	Theme
+152	153	Designing Brutal Multiplayer Video Games	CHI	Figure5	Result	Theme	Example	Image	Photo		Image	Theme
+153	154	Designing Brutal Multiplayer Video Games	CHI	Figure6	Result	Theme	Example	Image	Photo		Image	Theme
+154	155	Designing Brutal Multiplayer Video Games	CHI	Figure7	Result	Theme	Example	Image	Photo		Image	Theme
+155	156	Designing Brutal Multiplayer Video Games	CHI	Figure8	Result	Theme	Example	Image	Photo		Image	Theme
+156	157	Designing Brutal Multiplayer Video Games	CHI	Figure9	Result	Theme	Example	Image	Photo		Image	Theme
+157	158	Designing Tools and Interfaces for Ecological Restoration: An Investigation into the Opportunities and Constraints for Technological Interventions	CHI	Figure2	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+158	159	Designing with Dynamics: Reflections on Co-design Workshops Between People Living with Dementia and Their Care Partners	CHI	Figure1	Result	Theme	Example	Image	Photo		Image	Theme
+160	161	Dimensions of UX Practice that Shape Ethical Awareness	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+161	162	Dimensions of UX Practice that Shape Ethical Awareness	CHI	Table3	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+162	163	Dirty Data in the Newsroom: Comparing Data Preparation in Journalism and Data Science	CHI	Figure2	Result	Theme	Taxonomy, Frequency, Source	Table/Matrix	Matrix		Table/Matrix	Quantitative, Theme
+163	164	Dirty Data in the Newsroom: Comparing Data Preparation in Journalism and Data Science	CHI	Figure3	Result	Theme	Source, Frequency	Table/Matrix	Heatmap, Matrix	Source, Quality	Table/Matrix	Quantitative, Theme
+164	165	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure6	Result	Theme	Definition	Diagram	Block diagram, Illustration		Diagram, Image	Theme
+165	166	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure7	Result	Theme	Definition	Diagram	Block diagram, Illustration		Diagram, Image	Theme
+166	167	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure8	Result	Theme	Definition	Diagram	Block diagram, Illustration		Diagram, Image	Theme
+167	168	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure9	Result	Theme	Definition	Diagram	Block diagram, Illustration		Diagram, Image	Theme
+168	169	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure10	Result	Theme	Definition	Diagram	Block diagram, Illustration		Diagram, Image	Theme
+169	170	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure11	Result	Theme	Example	Image	Photo		Image	Theme
+170	171	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure12	Result	Concept	Design insight	Diagram	Network diagram		Diagram	Concept
+171	172	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure13	Result	Concept	Design insight	Diagram	Block diagram, Illustration		Diagram, Image	Concept
+172	173	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure14	Result	Concept	cExample	Image	Photo		Image	Concept
+173	174	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure15	Result	Concept	cExample	Image	Photo		Image	Concept
+174	175	Documents in Your Hands: Exploring Interaction Techniques for Spatial Arrangement of Augmented Reality Documents	CHI	Figure16	Result	Concept	cExample	Image	Photo		Image	Concept
+175	176	Domestic Robots and the Dream of Automation: Understanding Human Interaction and Intervention	CHI	Figure1	Result	Theme	Example	Image	Photo		Image	Theme
+176	177	Domestic Robots and the Dream of Automation: Understanding Human Interaction and Intervention	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+177	178	Domestic Robots and the Dream of Automation: Understanding Human Interaction and Intervention	CHI	Figure3	Result	Theme	Example	Image	Photo		Image	Theme
+178	179	Don't You Know That You're Toxic: Normalization of Toxicity in Online Gaming	CHI	Figure3	Result	Quantitative	Frequency	Chart	Grouped bar		Chart	Quantitative
+179	180	Educator Perceptions of XRAuthor: An Accessible Tool for Authoring Learning Content with Different Immersion Levels	CHI	Table1	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+180	181	Educator Perceptions of XRAuthor: An Accessible Tool for Authoring Learning Content with Different Immersion Levels	CHI	Figure3	Discussion	Concept	cExample	Image	Photo		Image	Concept
+181	182	Eliciting and Analysing Users' Envisioned Dialogues with Perfect Voice Assistants	CHI	Figure3	Result	Quantitative	Frequency	Table/Matrix	Heatmap		Table/Matrix	Quantitative
+182	183	Eliciting and Analysing Users' Envisioned Dialogues with Perfect Voice Assistants	CHI	Table3	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+183	184	Encountering Friction, Understanding Crises: How Do Digital Natives Make Sense of Crisis Maps?	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+184	185	Encountering Friction, Understanding Crises: How Do Digital Natives Make Sense of Crisis Maps?	CHI	Figure3	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+185	186	Encountering Friction, Understanding Crises: How Do Digital Natives Make Sense of Crisis Maps?	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+186	187	Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions	CHI	Table3	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+187	188	Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions	CHI	Figure1	Discussion	Concept	Model/Framework	Diagram	Euler diagram		Diagram	Concept
+188	189	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+189	190	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Figure3	Result	Theme	Example	Image	Photo		Image	Theme
+190	191	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Figure4	Result	Theme	Example	Image	Photo		Image	Theme
+191	192	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Figure5	Result	Theme	Example	Image	Photo		Image	Theme
+192	193	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Figure6	Result	Theme	Example	Image	Photo		Image	Theme
+193	194	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Figure7	Result	Theme	Example	Image	Photo		Image	Theme
+194	195	Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology	CHI	Table3	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+195	196	Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display	CHI	Figure3	Result	Concept	cExample	Image	Sketch		Image	Concept
+197	198	Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display	CHI	Figure5	Result	Concept	cExample	Image	Photo		Image	Concept
+198	199	Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display	CHI	Figure6	Result	Concept	cExample	Image	Photo		Image	Concept
+201	202	Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display	CHI	Table2	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+203	204	Exploring Collaborative Movement Improvisation Towards the Design of LuminAI—a Co-Creative AI Dance Partner	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Other diagram	Pictographic	Diagram	Concept
+204	205	Exploring Collaborative Movement Improvisation Towards the Design of LuminAI—a Co-Creative AI Dance Partner	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Euler diagram		Diagram	Concept
+205	206	Exploring Collaborative Movement Improvisation Towards the Design of LuminAI—a Co-Creative AI Dance Partner	CHI	Figure5	Result	Quantitative	Frequency	Chart	Stacked bar		Chart	Quantitative
+206	207	Exploring Flow in Real-World Knowledge Work Using Discrete cEEGrid Sensors	CHI	Table1	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+207	208	Exploring Flow in Real-World Knowledge Work Using Discrete cEEGrid Sensors	CHI	Figure5	Result	Quantitative	Frequency	Chart	Box plot		Chart	Quantitative
+208	209	Exploring Flow in Real-World Knowledge Work Using Discrete cEEGrid Sensors	CHI	Figure6	Result	Quantitative	Objectively-measured	Chart	Other chart	p-value	Chart	Quantitative
+209	210	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Table1	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+210	211	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure6	Result	Quantitative	Objectively-measured	Chart	Bar chart, Range symbol	Task performance	Chart	Quantitative
+211	212	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure7	Result	Quantitative	Objectively-measured	Chart	Bar chart, Range symbol	Task performance	Chart	Quantitative
+212	213	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure8	Result	Quantitative	Self-reported	Chart	Bar chart, Range symbol	SUS	Chart	Quantitative
+213	214	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure9	Result	Quantitative	Self-reported	Chart	Bar chart, Range symbol	SUS	Chart	Quantitative
+214	215	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure10	Result	Quantitative	Objectively-measured	Chart	Other chart, Range symbol	RR / pNN50 increase rate	Chart	Quantitative
+215	216	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure11	Result	Quantitative	Self-reported	Chart	Bar chart, Range symbol	SSQ score	Chart	Quantitative
+216	217	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure12	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+217	218	Exploring Joint Effects of Locomotion Continuity and Wayfinding Assistance in Non-Embodied VR Game Navigation	CHI	Figure13	Discussion	Concept	Design insight	Diagram	Block diagram, Illustration		Diagram, Image	Concept
+218	219	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Figure2	Result	Theme	Taxonomy, Example	Diagram	Network diagram		Diagram	Theme
+219	220	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Figure3	Result	Quantitative	Objectively-measured	Chart	Grouped bar	F1 score	Chart	Quantitative
+220	221	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Figure4	Result	Quantitative	Objectively-measured	Chart	Grouped bar	F1 score	Chart	Quantitative
+221	222	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Table2	Result	Quantitative	Objectively-measured	Table/Matrix	Table	Accuracy, F1 score	Table/Matrix	Quantitative
+222	223	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Table3	Result	Quantitative	Objectively-measured	Table/Matrix	Table	Accuracy, F1 score	Table/Matrix	Quantitative
+223	224	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Figure5	Result	Quantitative	Objectively-measured	Table/Matrix	Heatmap	F1 score, Z normalized	Table/Matrix	Quantitative
+224	225	Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World	CHI	Table1	Result	Quantitative	Frequency	Table/Matrix	Matrix		Table/Matrix	Quantitative
+225	226	Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World	CHI	Table2	Result	Quantitative	Frequency	Table/Matrix	Matrix		Table/Matrix	Quantitative
+226	227	Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World	CHI	Figure1	Result	Theme	Example	Image	Screenshot		Image	Theme
+227	228	Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+228	229	Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+229	230	Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+230	231	Exploring the Design of Tailored Virtual Reality Experiences for People with Dementia	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+234	235	Extended Reality (XR) Remote Research: a Survey of Drawbacks and Opportunities	CHI	Table1	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+235	236	Extended Reality (XR) Remote Research: a Survey of Drawbacks and Opportunities	CHI	Table2	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+236	237	Extended Reality (XR) Remote Research: a Survey of Drawbacks and Opportunities	CHI	Table3	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+237	238	Extended Reality (XR) Remote Research: a Survey of Drawbacks and Opportunities	CHI	Table4	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+238	239	Extended Reality (XR) Remote Research: a Survey of Drawbacks and Opportunities	CHI	Table5	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+239	240	Extended Reality (XR) Remote Research: a Survey of Drawbacks and Opportunities	CHI	Table6	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+240	241	Fear, Fun or None: A Qualitative Quest Towards Unlocking Cybersecurity Attitudes	CHI	Figure3	Result	Theme	Taxonomy, Example	Diagram	Network diagram		Diagram	Theme
+241	242	Fear, Fun or None: A Qualitative Quest Towards Unlocking Cybersecurity Attitudes	CHI	Figure4	Result	Theme	Taxonomy, Example	Diagram	Network diagram		Diagram	Theme
+242	243	Fear, Fun or None: A Qualitative Quest Towards Unlocking Cybersecurity Attitudes	CHI	Figure5	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+243	244	Fear, Fun or None: A Qualitative Quest Towards Unlocking Cybersecurity Attitudes	CHI	Figure6	Result	Theme	Taxonomy, Example	Diagram	Network diagram		Diagram	Theme
+247	248	Folk Tales of IoT: Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices	CHI	Table5	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+248	249	Folk Tales of IoT: Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices	CHI	Fiugre2	Result	Theme	Example	Image	Sketch		Image	Theme
+249	250	Folk Tales of IoT: Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+250	251	Folk Tales of IoT: Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices	CHI	Figure4	Result	Quantitative	Self-reported	Chart	Stacked bar, Box plot		Chart	Quantitative
+251	252	Folk Tales of IoT: Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices	CHI	Table6	Result	Quantitative	Self-reported	Table/Matrix	Table		Table/Matrix	Quantitative
+255	256	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+256	257	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+257	258	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+258	259	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+259	260	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+260	261	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+261	262	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+262	263	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure9	Result	Theme	Example	Image	Screenshot		Image	Theme
+263	264	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure10	Result	Theme	Example	Image	Screenshot		Image	Theme
+264	265	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure11	Result	Theme	Example	Image	Screenshot		Image	Theme
+265	266	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure12	Result	Theme	Example	Image	Screenshot		Image	Theme
+266	267	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure13	Result	Theme	Example	Image	Screenshot		Image	Theme
+267	268	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure14	Result	Theme	Example	Image	Screenshot		Image	Theme
+268	269	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure15	Result	Theme	Example	Image	Screenshot		Image	Theme
+269	270	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure16	Result	Theme	Definition, Example	Diagram	Block diagram, Screenshot		Diagram, Image	Theme
+270	271	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Table1	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+271	272	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure17	Result	Concept	cExample	Table/Matrix	Table, Screenshot		Image, Table/Matrix	Concept
+272	273	From 'Wow' to 'Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles	CHI	Figure18	Result	Concept	Design insight	Diagram	Block diagram, Illustration, Photo, Screenshot		Diagram, Image	Concept
+273	274	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+274	275	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure3	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+275	276	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure4	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+276	277	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure5	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+277	278	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure6	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+278	279	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure7	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+279	280	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure8	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+280	281	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure9	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+281	282	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure10	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+282	283	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure11	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+283	284	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure12	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+284	285	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure13	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+285	286	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure14	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+286	287	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure15	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+287	288	From Camera-Eye to AI: Exploring the Interplay of Cinematography and Computational Visual Storytelling	CHI	Figure16	Result	Theme	Example	Image	Photo, Table		Image, Table/Matrix	Theme
+288	289	From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices	CHI	Figure2	Discussion	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+289	290	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Table2	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+290	291	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Table3	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+291	292	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Figure1	Result	Theme	Example	Image	Sketch		Image	Theme
+292	293	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Figure2	Result	Theme	Example	Image	Sketch		Image	Theme
+293	294	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+294	295	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Table4	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+295	296	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Table5	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+296	297	Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction	CHI	Figure4	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+297	298	Good Performance Isn't Enough to Trust AI: Lessons from Logistics Experts on their Long-Term Collaboration with an AI Planning System	CHI	Figure2	Result	Theme	Example	Chart	Other chart		Chart	Theme
+298	299	Horse as Teacher: How human-horse interaction informs human-robot interaction	CHI	Table1	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+299	300	Horse as Teacher: How human-horse interaction informs human-robot interaction	CHI	Table2	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+300	301	Horse as Teacher: How human-horse interaction informs human-robot interaction	CHI	Table3	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+301	302	Horse as Teacher: How human-horse interaction informs human-robot interaction	CHI	Table4	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+302	303	Horse as Teacher: How human-horse interaction informs human-robot interaction	CHI	Figure2	Result	Concept	Design insight	Diagram	Block diagram		Diagram	Concept
+303	304	Horse as Teacher: How human-horse interaction informs human-robot interaction	CHI	Table5	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+304	305	How to get away with cyberattacks: An argumentative approach to cyberattacks' legitimization by common users	CHI	Table1	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+305	306	How to get away with cyberattacks: An argumentative approach to cyberattacks' legitimization by common users	CHI	Table2	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+306	307	Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction	CHI	Table2	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+307	308	Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction	CHI	Figure7	Result	Theme	Taxonomy	Diagram	Block diagram		Diagram	Theme
+308	309	Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction	CHI	Figure8	Discussion	Concept	Design insight	Diagram	Block diagram		Diagram	Concept
+309	310	Identity Claims that Underlie Ethical Awareness and Action	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+310	311	Identity Claims that Underlie Ethical Awareness and Action	CHI	Figure1	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+311	312	Identity Claims that Underlie Ethical Awareness and Action	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+312	313	Impacts of Telemanipulation in Robotic Assisted Surgery	CHI	Figure2	Discussion	Concept	Design insight	Diagram	Other diagram, Illustration		Diagram, Image	Concept
+313	314	In a New Land: Mobile Phones, Amplified Pressures and Reduced Capabilities	CHI	Figure2	Result	Theme	Example	Image	Sketch		Image	Theme
+314	315	In a New Land: Mobile Phones, Amplified Pressures and Reduced Capabilities	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+315	316	In a New Land: Mobile Phones, Amplified Pressures and Reduced Capabilities	CHI	Figure4	Result	Theme	Example	Image	Sketch		Image	Theme
+316	317	In a New Land: Mobile Phones, Amplified Pressures and Reduced Capabilities	CHI	Figure5	Result	Theme	Example	Image	Sketch		Image	Theme
+317	318	In a New Land: Mobile Phones, Amplified Pressures and Reduced Capabilities	CHI	Figure6	Result	Theme	Example	Image	Sketch		Image	Theme
+318	319	In a New Land: Mobile Phones, Amplified Pressures and Reduced Capabilities	CHI	Figure7	Result	Theme	Example	Image	Sketch		Image	Theme
+319	320	Infrastructuring Care: How Trans and Non-Binary People Meet Health and Well-Being Needs through Technology	CHI	Figure1	Result	Theme	Example	Image	Sketch		Image	Theme
+320	321	Infrastructuring Care: How Trans and Non-Binary People Meet Health and Well-Being Needs through Technology	CHI	Figure2	Result	Theme	Example	Image	Sketch		Image	Theme
+321	322	Inhabiting Interconnected Spaces: How Users Shape and Appropriate Their Smart Home Ecosystems	CHI	Figure1	Result	Theme	Example	Image	Illustration		Image	Theme
+322	323	Inhabiting Interconnected Spaces: How Users Shape and Appropriate Their Smart Home Ecosystems	CHI	Figure2	Result	Theme	Example	Image	Illustration		Image	Theme
+323	324	Inhabiting Interconnected Spaces: How Users Shape and Appropriate Their Smart Home Ecosystems	CHI	Figure3	Result	Theme	Definition	Image	Illustration		Image	Theme
+324	325	Innovating Novel Online Social Spaces with Diverse Middle School Girls: Ideation and Collaboration in a Synchronous Virtual Design Workshop	CHI	Table2	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+325	326	Interpersonal Synchrony Over a Distance - the Effect of Network Noise on Synchronization and its Prosocial Consequences	CHI	Figure9	Result	Quantitative	Frequency, tOther	Chart	Other chart		Chart	Quantitative, Theme
+326	327	Intra, Extra, Read all about it! How Readers Interpret Visualizations with Intra- and Extratextual Information	CHI	Table2	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+327	328	Intra, Extra, Read all about it! How Readers Interpret Visualizations with Intra- and Extratextual Information	CHI	Table3	Result	Quantitative	Frequency, Taxonomy	Table/Matrix	Heatmap		Table/Matrix	Quantitative, Theme
+328	329	Investigating Car Drivers' Information Demand after Safety and Security Critical Incidents	CHI	Table2	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+329	330	Investigating Car Drivers' Information Demand after Safety and Security Critical Incidents	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Euler diagram		Diagram	Concept
+330	331	Investigating Car Drivers' Information Demand after Safety and Security Critical Incidents	CHI	Figure5	Result	Quantitative	Objectively-measured	Chart	Other chart	relation	Chart	Quantitative
+331	332	Kaleidoscope: A Reflective Documentation Tool for a User Interface Design Course	CHI	Table1	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+332	333	Kills, Deaths, and (Computational) Assists: Identifying Opportunities for Computational Support in Esport Learning	CHI	Table4	Result	Theme	Definition, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+333	334	Kills, Deaths, and (Computational) Assists: Identifying Opportunities for Computational Support in Esport Learning	CHI	Table5	Result	Theme	Definition, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+334	335	Learning Curiosity through Play: Exploring the Role of Games and Interactive Design in Museums	CHI	Table2	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+335	336	Learning Curiosity through Play: Exploring the Role of Games and Interactive Design in Museums	CHI	Table3	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+336	337	Listening to the Voices: Describing Ethical Caveats of Conversational User Interfaces According to Experts and Frequent Users	CHI	Table2	Result	Theme	tOther	Table/Matrix	Table	Ethical caveat, Guiding questions	Table/Matrix	Theme
+337	338	Listening to the Voices: Describing Ethical Caveats of Conversational User Interfaces According to Experts and Frequent Users	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+338	339	Listening to the Voices: Describing Ethical Caveats of Conversational User Interfaces According to Experts and Frequent Users	CHI	Table3	Discussion	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+339	340	"My Perfect Platform Would Be Telepathy" - Reimagining the Design of Social Media with Autistic Adults	CHI	Figure3	Result	Theme	Example	Image	Photo		Image	Theme
+340	341	Low-Resourced Languages and Online Knowledge Repositories: A Need-Finding Study.	CHI	Figure4	Result	Theme	Example	Diagram	Other diagram	Timeline	Diagram	Theme
+341	342	Low-Resourced Languages and Online Knowledge Repositories: A Need-Finding Study.	CHI	Figure5	Result	Theme	Example	Image	Photo		Image	Theme
+342	343	Mapping Design Spaces for Audience Participation in Game Live Streaming	CHI	Table2	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+343	344	Mapping Design Spaces for Audience Participation in Game Live Streaming	CHI	Table3	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+344	345	Mapping Design Spaces for Audience Participation in Game Live Streaming	CHI	Table4	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+345	346	Mapping Design Spaces for Audience Participation in Game Live Streaming	CHI	Figure2	Result	Theme	Taxonomy	Diagram	Euler diagram		Diagram	Theme
+346	347	Mapping Design Spaces for Audience Participation in Game Live Streaming	CHI	Figure3	Result	Concept	Design insight	Diagram	Euler diagram		Diagram	Concept
+347	348	Memory Manipulations in Extended Reality	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+348	349	Memory Manipulations in Extended Reality	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+349	350	Memory Manipulations in Extended Reality	CHI	Figure5	Result	Concept	cExample	Image	Illustration		Image	Concept
+350	351	Memory Manipulations in Extended Reality	CHI	Figure6	Result	Concept	cExample	Image	Illustration		Image	Concept
+351	352	Memory Manipulations in Extended Reality	CHI	Figure7	Result	Concept	cExample	Image	Illustration		Image	Concept
+352	353	Mental Models of AI Agents in a Cooperative Game Setting	CHI	Table2	Result	Theme	Definition, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+353	354	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure3	Result	Theme	Example	Image	Illustration		Image	Theme
+354	355	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure4	Result	Theme	Example	Image	Illustration		Image	Theme
+355	356	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure5	Result	Theme	Example	Image	Illustration		Image	Theme
+356	357	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure6	Result	Theme	Example	Image	Illustration		Image	Theme
+357	358	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure7	Result	Theme	Example	Image	Illustration		Image	Theme
+358	359	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure8	Result	Theme	Example, tOther	Image	Illustration		Image	Theme
+359	360	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Table1	Result	Theme	Taxonomy, tOther	Table/Matrix	Table	Finding	Table/Matrix	Theme
+360	361	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure10	Result	Theme	Example	Image	Photo		Image	Theme
+361	362	Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices	CHI	Figure11	Result	Theme	Example	Image	Photo		Image	Theme
+362	363	Multi-stakeholder Perspectives on Mental Health Screening Tools for Children	CHI	Table2	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+363	364	Negotiating Experience and Communicating Information Through Abstract Metaphor	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Network diagram, Euler diagram		Diagram	Concept
+364	365	Negotiating Experience and Communicating Information Through Abstract Metaphor	CHI	Figure3	Discussion	Concept	cExample	Image	Photo		Image	Concept
+365	366	Negotiating Experience and Communicating Information Through Abstract Metaphor	CHI	Figure4	Discussion	Concept	cExample	Image	Photo		Image	Concept
+367	368	Patient Perspectives on AI-Driven Predictions of Schizophrenia Relapses: Understanding Concerns and Opportunities for Self-Care and Treatment	CHI	Figure3	Result	Concept	Design insight	Diagram	Network diagram		Diagram	Concept
+370	371	Playing with Robots: Performing Arts Techniques for Designing and Understanding Robot Group Movement	CHI	Figure12	Result	Theme	Taxonomy, Definition, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+371	372	Privacy Concerns of Student Data Shared with Instructors in an Online Learning Management System	CHI	Figure1	Result	Quantitative	Frequency	Chart	Stacked bar		Chart	Quantitative
+372	373	Privacy Concerns of Student Data Shared with Instructors in an Online Learning Management System	CHI	Figure2	Result	Quantitative	Frequency	Chart	Grouped bar		Chart	Quantitative
+373	374	Privacy Lies: Understanding How, When, and Why People Lie to Protect Their Privacy in Multiple Online Contexts	CHI	Table2	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+374	375	Privacy Lies: Understanding How, When, and Why People Lie to Protect Their Privacy in Multiple Online Contexts	CHI	Table3	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+375	376	Promoting Engagement in Remote Patient Monitoring Using Asynchronous Messaging	CHI	Figure5	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+376	377	Promoting Engagement in Remote Patient Monitoring Using Asynchronous Messaging	CHI	Figure6	Result	Quantitative	Frequency	Chart	Other chart	Flow	Chart	Quantitative
+378	379	Provocations from #vanlife: Investigating Life and Work in a Community Extensively Using Technology Not Designed for Them	CHI	Figure4	Result	Theme	Example	Image	Photo		Image	Theme
+379	380	Provocations from #vanlife: Investigating Life and Work in a Community Extensively Using Technology Not Designed for Them	CHI	Figure5	Result	Theme	Example	Image	Photo		Image	Theme
+380	381	Provocations from #vanlife: Investigating Life and Work in a Community Extensively Using Technology Not Designed for Them	CHI	Figure6	Result	Theme	Example	Image	Photo		Image	Theme
+381	382	Provocations from #vanlife: Investigating Life and Work in a Community Extensively Using Technology Not Designed for Them	CHI	Figure7	Result	Theme	Example	Image	Photo		Image	Theme
+382	383	Provocations from #vanlife: Investigating Life and Work in a Community Extensively Using Technology Not Designed for Them	CHI	Figure8	Result	Theme	Example	Image	Photo		Image	Theme
+383	384	Provocations from #vanlife: Investigating Life and Work in a Community Extensively Using Technology Not Designed for Them	CHI	Table4	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+384	385	Q-Chef: The impact of surprise-eliciting systems on food-related decision-making	CHI	Table2	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+385	386	Q-Chef: The impact of surprise-eliciting systems on food-related decision-making	CHI	Figure2	Result	Quantitative	Objectively-measured	Chart	Other chart	p-value	Chart	Quantitative
+386	387	Responsible Innovation of Touchless Haptics: A Prospective Design Exploration in Social Interaction	CHI	Figure4	Result	Theme	Taxonomy, Definition	Diagram	Block diagram, Illustration		Diagram, Image	Theme
+387	388	Responsible Innovation of Touchless Haptics: A Prospective Design Exploration in Social Interaction	CHI	Figure5	Result	Theme	Taxonomy, Definition, tOther	Table/Matrix	Table	Relation?	Table/Matrix	Theme
+388	389	Responsible Innovation of Touchless Haptics: A Prospective Design Exploration in Social Interaction	CHI	Figure6	Result	Quantitative	Self-reported	Chart	Other chart	desirability, feasibility	Chart	Quantitative
+389	390	Responsible Innovation of Touchless Haptics: A Prospective Design Exploration in Social Interaction	CHI	Figure7	Result	Concept	Model/Framework	Diagram	Block diagram, Euler diagram, MscVis	Text	Diagram, MscVis	Concept
+390	391	Responsible Innovation of Touchless Haptics: A Prospective Design Exploration in Social Interaction	CHI	Figure8	Result	Quantitative	Frequency	Table/Matrix	Heatmap	Co-occurence	Table/Matrix	Quantitative
+391	392	Saying No to "Yes Means Yes": Limitations of Affirmative Consent for Mitigating Unwanted Behavior Online According to Women and LGBTQIA+ Stakeholders	CHI	Table1	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+392	393	Saying No to "Yes Means Yes": Limitations of Affirmative Consent for Mitigating Unwanted Behavior Online According to Women and LGBTQIA+ Stakeholders	CHI	Table2	Result	Theme	Definition, tOther	Table/Matrix	Table	Provocation	Table/Matrix	Theme
+393	394	Seeking Inspiration through Human-LLM Interaction	CHI	Table2	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+394	395	Seeking Inspiration through Human-LLM Interaction	CHI	Figure1	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+395	396	Selling Glossy, Easy Futures: A Feminist Exploration of Commercial Mental-Health-focused Self-Care Apps' Descriptions in the Google Play Store	CHI	Table3	Result	Quantitative	Frequency, Source	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+396	397	Selling Glossy, Easy Futures: A Feminist Exploration of Commercial Mental-Health-focused Self-Care Apps' Descriptions in the Google Play Store	CHI	Table4	Result	Quantitative	Frequency, Source	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+397	398	Selling Glossy, Easy Futures: A Feminist Exploration of Commercial Mental-Health-focused Self-Care Apps' Descriptions in the Google Play Store	CHI	Table5	Result	Quantitative	Frequency, Source	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+398	399	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure5	Result	Theme	Example	Image	Photo		Image	Theme
+399	400	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure6	Result	Theme	Example	Image	Photo		Image	Theme
+400	401	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure7	Result	Theme	Example	Image	Photo		Image	Theme
+401	402	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure8	Result	Theme	Example	Image	Photo		Image	Theme
+402	403	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure9	Result	Theme	Example	Image	Photo		Image	Theme
+403	404	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure10	Result	Theme	Example	Image	Photo		Image	Theme
+404	405	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure11	Result	Theme	Example	Image	Photo		Image	Theme
+405	406	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure12	Result	Theme	Example	Image	Photo		Image	Theme
+406	407	Socio-technical Dynamics: Cooperation of Emergent and Established Organisations in Crises and Disasters	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+407	408	Socio-technical Dynamics: Cooperation of Emergent and Established Organisations in Crises and Disasters	CHI	Figure4	Result	Concept	cExample	Diagram	Network diagram		Diagram	Concept
+408	409	Spatial Hand Actions: Exploring the Hand Actions used to Represent Spatial Thinking for 3D Assembling Tasks	CHI	Figure4	Result	Theme	Taxonomy, tOther	Diagram	Network diagram		Diagram	Theme
+409	410	Spatial Hand Actions: Exploring the Hand Actions used to Represent Spatial Thinking for 3D Assembling Tasks	CHI	Figure5	Result	Theme	Example, Frequency	Table/Matrix	Photo, Table		Image, Table/Matrix	Quantitative, Theme
+410	411	Spatial Hand Actions: Exploring the Hand Actions used to Represent Spatial Thinking for 3D Assembling Tasks	CHI	Figure6	Result	Theme	Taxonomy, Example	Diagram	Photo, Block diagram		Diagram, Image	Theme
+411	412	Spatial Hand Actions: Exploring the Hand Actions used to Represent Spatial Thinking for 3D Assembling Tasks	CHI	Table3	Result	Quantitative	Objectively-measured, Frequency	Table/Matrix	Table	time, count	Table/Matrix	Quantitative
+412	413	Spatial Hand Actions: Exploring the Hand Actions used to Represent Spatial Thinking for 3D Assembling Tasks	CHI	Figure7	Result	Quantitative	Objectively-measured, Frequency	Chart	Grouped bar, Range symbol	time, count	Chart	Quantitative
+413	414	Sprayable Sound: Exploring the Experiential and Design Potential of Physically Spraying Sound Interaction	CHI	Figure9	Result	Concept	Design insight	Diagram	Block diagram, Illustration		Diagram, Image	Concept
+414	415	Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets	CHI	Table4	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+415	416	Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets	CHI	Figure4	Result	Quantitative	Frequency	Chart	Grouped bar		Chart	Quantitative
+416	417	Sticky Goals: Understanding Goal Commitments for Behavioral Changes in the Wild	CHI	Table1	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+417	418	Supervising Multiple Operating Rooms Using a Head-Worn display: A Longitudinal Evaluation of the Experience of Supervising Anesthesiologists and Their Co-Workers	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+418	419	Supervising Multiple Operating Rooms Using a Head-Worn display: A Longitudinal Evaluation of the Experience of Supervising Anesthesiologists and Their Co-Workers	CHI	Figure4	Result	Theme	Taxonomy, tOther	Diagram	Network diagram		Diagram	Theme
+419	420	Supervising Multiple Operating Rooms Using a Head-Worn display: A Longitudinal Evaluation of the Experience of Supervising Anesthesiologists and Their Co-Workers	CHI	Figure5	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+420	421	Tactile Symbols with Continuous and Motion-Coupled Vibration: An Exploration of using Embodied Experiences for Hermeneutic Design	CHI	Table2	Result	Theme	Taxonomy, Source	Table/Matrix	Table		Table/Matrix	Theme
+421	422	Tactile Symbols with Continuous and Motion-Coupled Vibration: An Exploration of using Embodied Experiences for Hermeneutic Design	CHI	Table3	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+422	423	The Design Space of Wearables for Sports and Fitness Practices	CHI	Figure1	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+423	424	The Design Space of Wearables for Sports and Fitness Practices	CHI	Table2	Result	Theme	Taxonomy, Source	Table/Matrix	Table		Table/Matrix	Theme
+424	425	The Design Space of Wearables for Sports and Fitness Practices	CHI	Figure2	Discussion	Concept	Design insight	Diagram	Network diagram		Diagram	Concept
+425	426	The Effect of Orientation on the Readability and Comfort of 3D-Printed Braille	CHI	Table3	Discussion	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+426	427	The Effect of Orientation on the Readability and Comfort of 3D-Printed Braille	CHI	Table4	Discussion	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+427	428	The Gang's All Here: How People Used Games to cope with COVID19 Quarantine	CHI	Table1	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+428	429	The Gang's All Here: How People Used Games to cope with COVID19 Quarantine	CHI	Table3	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+429	430	The Last Decade of HCI Research on Children and Voice-based Conversational Agents	CHI	Table5	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+430	431	The Race Towards Digital Wellbeing: Issues and Opportunities	CHI	Table2	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+433	434	The Technology Is Enemy for Me at the Moment: How Smart Home Technologies Assert Control Beyond Intent	CHI	Table2	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+434	435	This Game SUX: Why & How to Design Sh@*!y User Experiences	CHI	Table1	Result	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+435	436	This Game SUX: Why & How to Design Sh@*!y User Experiences	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+436	437	This Game SUX: Why & How to Design Sh@*!y User Experiences	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+437	438	This Game SUX: Why & How to Design Sh@*!y User Experiences	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+438	439	This Game SUX: Why & How to Design Sh@*!y User Experiences	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+439	440	Too Close and Crowded: Understanding Stress on Mobile Instant Messengers based on Proxemics	CHI	Figure1	Result	Theme	Example	Image	Screenshot		Image	Theme
+440	441	Too Close and Crowded: Understanding Stress on Mobile Instant Messengers based on Proxemics	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+441	442	Too Close and Crowded: Understanding Stress on Mobile Instant Messengers based on Proxemics	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+442	443	Too Close and Crowded: Understanding Stress on Mobile Instant Messengers based on Proxemics	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+443	444	Too Close and Crowded: Understanding Stress on Mobile Instant Messengers based on Proxemics	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+444	445	Too Close and Crowded: Understanding Stress on Mobile Instant Messengers based on Proxemics	CHI	Figure6	Discussion	Concept	cExample	Image	Screenshot		Image	Concept
+445	446	Towards a Bedder Future: A Study of Using Virtual Reality while Lying Down	CHI	Figure7	Result	Theme	Definition	Image	Illustration		Image	Theme
+446	447	Towards a Bedder Future: A Study of Using Virtual Reality while Lying Down	CHI	Figure8	Result	Theme	Example	Image	Photo, Screenshot		Image	Theme
+447	448	Towards a Bedder Future: A Study of Using Virtual Reality while Lying Down	CHI	Figure9	Result	Theme	Example	Image	Photo, Screenshot		Image	Theme
+448	449	Towards a Bedder Future: A Study of Using Virtual Reality while Lying Down	CHI	Figure10	Result	Theme	Example	Image	Photo, Screenshot		Image	Theme
+449	450	Towards a Bedder Future: A Study of Using Virtual Reality while Lying Down	CHI	Table1	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+450	451	Towards Designing Playful Bodily Extensions: Learning from Expert Interviews	CHI	Table2	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+451	452	Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+452	453	Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces	CHI	Table2	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+453	454	Understanding and Supporting Peer Review Using AI-reframed Positive Summary	CHI	Table4	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+454	455	Understanding and Supporting Peer Review Using AI-reframed Positive Summary	CHI	Figure6	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+455	456	Understanding and Supporting Peer Review Using AI-reframed Positive Summary	CHI	Table5	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+456	457	Understanding Cultural and Religious Values Relating to Awareness of Women's Intimate Health among Arab Muslims	CHI	Table3	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+457	458	Understanding Cyber Hostility, Gossip, Exclusion, and Social Support in Remote and Hybrid Work Settings: Benefits and Challenges of Remote Work	CHI	Table6	Result	Theme	Taxonomy, Frequency, Example	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+458	459	Understanding How eHealth Coaches Tailor Support For Weight Loss: Towards the Design of Person-Centered Coaching Systems	CHI	Table1	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+459	460	Understanding How eHealth Coaches Tailor Support For Weight Loss: Towards the Design of Person-Centered Coaching Systems	CHI	Figure2	Discussion	Concept	Design insight	MscVis	MscVis	Text	MscVis	Concept
+460	461	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Table4	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+461	462	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure3	Result	Theme	Example	Image	Sketch	Scribble?	Image	Theme
+462	463	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure4	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+463	464	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure5	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+464	465	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure6	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+465	466	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Table5	Result	Quantitative	Objectively-measured, Frequency	Chart	Grouped bar	eating topography (time, count,...)	Chart	Quantitative
+466	467	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure7	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+467	468	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure8	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+468	469	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure9	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+469	470	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure10	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+470	471	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Figure11	Result	Theme	Example	Image	Sketch	Scribble	Image	Theme
+471	472	Understanding Screen-based Dining Practices through the Lens of Mindful Eating	CHI	Table6	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+472	473	Understanding the Online Social Support Dynamics for Postpartum Depression	CHI	Table4	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+473	474	Understanding the Online Social Support Dynamics for Postpartum Depression	CHI	Figure4	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+474	475	Understanding the Online Social Support Dynamics for Postpartum Depression	CHI	Table5	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+475	476	Understanding the Online Social Support Dynamics for Postpartum Depression	CHI	Table6	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+476	477	Understanding the Online Social Support Dynamics for Postpartum Depression	CHI	Table7	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+477	478	Understanding User Experiences Across VR Walking-in-place Locomotion Methods	CHI	Figure3	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table, Bar chart		Chart, Table/Matrix	Quantitative, Theme
+479	480	User Perspectives and Ethical Experiences of Apps for Depression: A Qualitative Analysis of User Reviews	CHI	Table1	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+480	481	Using Job Characteristics to Inform Interface Design for Industrial Maintenance Procedures	CHI	Table1	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+481	482	Using Job Characteristics to Inform Interface Design for Industrial Maintenance Procedures	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Euler diagram, Block diagram		Diagram	Concept
+482	483	Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos	CHI	Table1	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+483	484	Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+484	485	Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+485	486	Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos	CHI	Figure3	Result	Theme	Example	Image	Photo		Image	Theme
+486	487	Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos	CHI	Figure4	Result	Theme	Example	Image	Photo		Image	Theme
+487	488	Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos	CHI	Table3	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+488	489	What is User Engagement?: A Systematic Review of 241 Research Articles in Human-Computer Interaction and Beyond	CHI	Table5	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+489	490	What is User Engagement?: A Systematic Review of 241 Research Articles in Human-Computer Interaction and Beyond	CHI	Table6	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+490	491	What is User Engagement?: A Systematic Review of 241 Research Articles in Human-Computer Interaction and Beyond	CHI	Table8	Result	Theme	Frequency, tOther	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+491	492	What Matters in Professional Drone Pilots' Practice? An Interview Study to Understand the Complexity of Their Work and Inform Human-Drone Interaction Research	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Network diagram, Euler diagram		Diagram	Concept
+646	647	Attached to "The Algorithm": Making Sense of Algorithmic Precarity on Instagram	CHI	Figure1	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+647	648	Eliciting and Analysing Users' Envisioned Dialogues with Perfect Voice Assistants	CHI	Figure4	Result	Quantitative	Objectively-measured	Table/Matrix	Heatmap	Correlation	Table/Matrix	Quantitative
+648	649	Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction	CHI	Table2	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+649	650	Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction	CHI	Table3	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+651	652	Exploring Modular Prompt Design for Emotion and Mental Health Recognition	CHI	Table4	Result	Quantitative	Objectively-measured	Table/Matrix	Table	Accuracy, F1 score	Table/Matrix	Quantitative
+652	653	A Need-Finding Study with Users of Geospatial Data	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+653	654	A Need-Finding Study with Users of Geospatial Data	CHI	Figure9	Result	Theme	Example	Image	Screenshot		Image	Theme
+654	655	Folk Tales of IoT: Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+658	659	Exploring Media Capture of Meaningful Experiences to Support Families Living with Dementia	CHI	Figure3	Result	Theme	Example	Image	Photo		Image	Theme
+659	660	Exploring Media Capture of Meaningful Experiences to Support Families Living with Dementia	CHI	Figure4	Result	Theme	Example	Image	Photo		Image	Theme
+660	661	Computing Students' Learning Difficulties in HCI Education	CHI	Table1	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+661	662	Computing Students' Learning Difficulties in HCI Education	CHI	Table3	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+662	663	Computing Students' Learning Difficulties in HCI Education	CHI	Table4	Result	Theme	Source	Table/Matrix	Table		Table/Matrix	Theme
+663	664	Tag a Teacher: A Qualitative Analysis of WhatsApp-Based Teacher Networks in Low-Income Indian Schools	CHI	Figure2	Result	Theme	Example	Image	Screenshot		Image	Theme
+664	665	Tag a Teacher: A Qualitative Analysis of WhatsApp-Based Teacher Networks in Low-Income Indian Schools	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+665	666	Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking	CHI	Figure2	Result	Theme	Taxonomy, Definition, Example, Frequency	Diagram	Block diagram, Bar chart, Sketch		Chart, Diagram, Image	Quantitative, Theme
+666	667	Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+667	668	Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Block diagram, Sketch		Diagram, Image	Concept
+668	669	Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking	CHI	Figure5	Result	Concept	cExample	Diagram	Sketch, Other chart, Matrix		Chart, Image, Table/Matrix	Concept
+669	670	Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking	CHI	Figure6	Result	Concept	cExample	Image	Sketch		Image	Concept
+670	671	Sketchnote Components, Design Space Dimensions, and Strategies for Effective Visual Note Taking	CHI	Figure7	Result	Concept	cExample	Image	Sketch		Image	Concept
+671	672	Standardizing Reporting of Participant Compensation in HCI: A Systematic Literature Review and Recommendations for the Field	CHI	Table2	Result	Theme	Definition	Table/Matrix	Table		Table/Matrix	Theme
+672	673	Standardizing Reporting of Participant Compensation in HCI: A Systematic Literature Review and Recommendations for the Field	CHI	Table3	Result	Quantitative	Objectively-measured	Table/Matrix	Table		Table/Matrix	Quantitative
+673	674	Standardizing Reporting of Participant Compensation in HCI: A Systematic Literature Review and Recommendations for the Field	CHI	Table4	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+674	675	How Will VR Enter University Classrooms? Multi-stakeholders Investigation of VR in Higher Education	CHI	Table3	Result	Theme	Example, Self-reported, Frequency	Table/Matrix	Table, Box plot		Chart, Table/Matrix	Quantitative, Theme
+675	676	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure4	Result	Quantitative	Frequency	Chart	Stacked bar		Chart	Quantitative
+676	677	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure5	Result	Quantitative	Frequency	Chart	Stacked bar		Chart	Quantitative
+677	678	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure7	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+678	679	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure8	Result	Quantitative	Frequency	Chart	Stacked bar		Chart	Quantitative
+679	680	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure9	Result	Quantitative	Frequency	Chart	Stacked bar		Chart	Quantitative
+680	681	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure10	Result	Quantitative	Frequency, Source	Chart	Stacked bar, Bar chart		Chart	Quantitative, Theme
+681	682	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure11	Result	Quantitative	Objectively-measured	Chart	Other chart	PCP	Chart	Quantitative
+682	683	Different Researchers, Different Results? Analyzing the Influence of Researcher Experience and Data Type During Qualitative Analysis of an Interview and Survey Study on Security Advice	CHI	Figure12	Result	Quantitative	Objectively-measured	Chart	Box plot		Chart	Quantitative
+683	684	How Users Experience Closed Captions on Live Television: Quality Metrics Remain a Challenge	CHI	Figure7	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+684	685	#PoetsOfInstagram: Navigating The Practices And Challenges Of Novice Poets On Instagram	CHI	Figure1	Discussion	Concept	Design insight	Diagram	Network diagram		Diagram	Concept
+685	686	#PoetsOfInstagram: Navigating The Practices And Challenges Of Novice Poets On Instagram	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+686	687	A Scoping Study of Evaluation Practices for Responsible AI Tools: Steps Towards Effectiveness Evaluations	CHI	Table5	Result	Theme	Source, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+687	688	The Effects of Generative AI on Design Fixation and Divergent Thinking	CHI	Figure11	Result	Theme	Example	Image	Screenshot, Sketch, Block diagram		Diagram, Image	Theme
+688	689	The Effects of Generative AI on Design Fixation and Divergent Thinking	CHI	Figure12	Result	Theme	Example	Image	Screenshot, Sketch, Block diagram		Diagram, Image	Theme
+689	690	The Effects of Generative AI on Design Fixation and Divergent Thinking	CHI	Figure13	Result	Theme	Example	Image	Screenshot, Sketch, Block diagram		Diagram, Image	Theme
+690	691	The Effects of Generative AI on Design Fixation and Divergent Thinking	CHI	Figure14	Result	Theme	Example	Image	Screenshot, Sketch, Block diagram		Diagram, Image	Theme
+691	692	The Effects of Generative AI on Design Fixation and Divergent Thinking	CHI	Figure15	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+692	693	Oral History and Qualitative Analysis with Youth: Cultivating Attachments to Create Publics	CHI	Table2	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+693	694	Making the Write Connections: Linking Writing Support Tools with Writer Needs	CHI	Table4	Result	Theme	Taxonomy, Definition, Source, tOther	Table/Matrix	Table, Matrix		Table/Matrix	Theme
+694	695	Making the Write Connections: Linking Writing Support Tools with Writer Needs	CHI	Table5	Result	Theme	Example	Table/Matrix, Image	Matrix, Photo, Screenshot, Sketch		Image, Table/Matrix	Theme
+695	696	Making the Write Connections: Linking Writing Support Tools with Writer Needs	CHI	Table6	Result	Theme	Taxonomy, Frequency, Example	Diagram	Network diagram		Diagram	Quantitative, Theme
+696	697	Making the Write Connections: Linking Writing Support Tools with Writer Needs	CHI	Figure6	Result	Quantitative	Self-reported	Chart	Other chart		Chart	Quantitative
+697	698	Data Bias Recognition in Museum Settings: Framework Development and Contributing Factors	CHI	Table1	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+698	699	Data Bias Recognition in Museum Settings: Framework Development and Contributing Factors	CHI	Table2	Result	Theme	Source	Table/Matrix	Matrix		Table/Matrix	Theme
+705	706	Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays	CHI	Figure13	Result	Theme	Example	Image	Photo		Image	Theme
+706	707	"I can't get no sleep": discussing #insomnia on twitter	CHI	Figure1	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+707	708	Don't forget your pill! designing effective medication reminder apps that support users' daily routines	CHI	Figure2	Result	Concept	cExample	Image	Sketch	Usage scenario	Image	Concept
+708	709	Temporal, affective, and embodied characteristics of taste experiences: a framework for design	CHI	Figure2	Result	Theme	Definition, tOther	MscVis	Other			Theme
+709	710	Temporal, affective, and embodied characteristics of taste experiences: a framework for design	CHI	Figure3	Result	Theme	Definition, tOther	MscVis	Other			Theme
+710	711	Temporal, affective, and embodied characteristics of taste experiences: a framework for design	CHI	Figure4	Result	Theme	Definition, tOther	Image	Screenshot		Image	Theme
+711	712	Temporal, affective, and embodied characteristics of taste experiences: a framework for design	CHI	Figure5	Result	Theme	Definition, tOther	Diagram	Other diagram		Diagram	Theme
+712	713	Things That Make Us Reminisce: Everyday Memory Cues as Opportunities for Interaction Design	CHI	Figure3	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+713	714	Designing for Citizen Data Analysis: A Cross-Sectional Case Study of a Multi-Domain Citizen Science Platform	CHI	Table2	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+714	715	The Poetics of Socio-Technical Space: Evaluating the Internet of Things Through Craft	CHI	Figure1	Result	Theme	Example	Image	Sketch		Image	Theme
+715	716	The Poetics of Socio-Technical Space: Evaluating the Internet of Things Through Craft	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+716	717	Frame Analysis of Voice Interaction Gameplay	CHI	Table2	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+717	718	Let's Talk about Sext: How Adolescents Seek Support and Advice about Their Online Sexual Experiences	CHI	Table2	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+718	719	Crafting Personal Information - Resistance, Imperfection, and Self-Creation in Bullet Journaling	CHI	Figure2	Result	Theme	Example	Image	Photo		Image	Theme
+719	720	Crafting Personal Information - Resistance, Imperfection, and Self-Creation in Bullet Journaling	CHI	Figure3	Result	Theme	Example	Image	Photo		Image	Theme
+720	721	Crafting Personal Information - Resistance, Imperfection, and Self-Creation in Bullet Journaling	CHI	Figure4	Result	Theme	Example	Image	Photo		Image	Theme
+721	722	Crafting Personal Information - Resistance, Imperfection, and Self-Creation in Bullet Journaling	CHI	Figure5	Result	Theme	Example	Image	Photo		Image	Theme
+722	723	Drone Chi: Somaesthetic Human-Drone Interaction	CHI	Figure7	Result	Theme	Example	Image	Photo		Image	Theme
+723	724	Supporting Self-Injury Recovery: The Potential for Virtual Reality Intervention	CHI	Table1	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+724	725	Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design	CHI	Figure2	Result	Theme	Example	Image	Sketch		Image	Theme
+725	726	Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+726	727	Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design	CHI	Figure4	Result	Theme	Example	Image	Sketch		Image	Theme
+727	728	Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design	CHI	Figure5	Result	Theme	Example	Image	Sketch		Image	Theme
+728	729	Exploring the Role of Paradata in Digitally Supported Qualitative Co-Research	CHI	Table2	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+729	730	Much Realistic, Such Wow! A Systematic Literature Review of Realism in Digital Games	CHI	Figure5	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+730	731	Much Realistic, Such Wow! A Systematic Literature Review of Realism in Digital Games	CHI	Figure6	Result	Theme	Taxonomy	Diagram	Euler diagram	Thematic map	Diagram	Theme
+731	732	Much Realistic, Such Wow! A Systematic Literature Review of Realism in Digital Games	CHI	Table 3	Result	Concept	Model/Framework	Table/Matrix	Matrix	set vis	Table/Matrix	Concept
+732	733	Designing for Relational Maintenance: New Directions for AAC Research	CHI	Table2	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+733	734	Lived Experiences of Mental Workload in Everyday Life	CHI	Table2	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+734	735	Lived Experiences of Mental Workload in Everyday Life	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+735	736	Next Steps in Epidermal Computing: Opportunities and Challenges for Soft On-Skin Devices	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+736	737	Next Steps in Epidermal Computing: Opportunities and Challenges for Soft On-Skin Devices	CHI	Figure4	Result	Theme	Example	Image	Sketch		Image	Theme
+737	738	Next Steps in Epidermal Computing: Opportunities and Challenges for Soft On-Skin Devices	CHI	Figure5	Result	Theme	Example	Image	Illustration		Image	Theme
+738	739	Next Steps in Epidermal Computing: Opportunities and Challenges for Soft On-Skin Devices	CHI	Figure6	Result	Theme	Example	Image	Illustration		Image	Theme
+739	740	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure2	Result	Theme	Taxonomy, Definition, Example	Diagram	Block diagram, Bar chart, Screenshot		Chart, Diagram, Image	Theme
+740	741	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure3	Result	Theme	Taxonomy, Definition, Example	Diagram	Block diagram, Bar chart, Screenshot		Chart, Diagram, Image	Theme
+741	742	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure4	Result	Theme	Taxonomy, Definition, Example	Diagram	Block diagram, Bar chart, Screenshot		Chart, Diagram, Image	Theme
+742	743	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure5	Result	Theme	Definition	Image	Illustration, Quadrant chart	Quantile	Image	Theme
+743	744	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure6	Result	Theme	Example	Image	Illustration		Image	Theme
+744	745	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure7	Discussion	Concept	cExample	Diagram	Network diagram, Illustration		Diagram, Image	Concept
+745	746	Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows	CHI	Figure8	Discussion	Concept	Model/Framework	Table/Matrix	Table, Illustration		Image, Table/Matrix	Concept
+746	747	How Space is Told: Linking Trajectory, Narrative, and Intent in Augmented Reality Storytelling for Cultural Heritage Sites	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+747	748	How Space is Told: Linking Trajectory, Narrative, and Intent in Augmented Reality Storytelling for Cultural Heritage Sites	CHI	Figure5	Result	Quantitative	Frequency	Diagram	Other chart		Chart	Quantitative
+748	749	How does HCI Understand Human Agency and Autonomy?	CHI	Table1	Result	Theme	Taxonomy, Definition, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+749	750	Good Day Manager! Exploring Social Relationships in NFT-based Play-to-Earn Games	CHI	Table2	Result	Theme	Definition, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+750	751	"Help Me:" Examining Youth's Private Pleas for Support and the Responses Received from Peers via Instagram Direct Messages	CHI	Table1	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+751	752	"Help Me:" Examining Youth's Private Pleas for Support and the Responses Received from Peers via Instagram Direct Messages	CHI	Table2	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+752	753	"Help Me:" Examining Youth's Private Pleas for Support and the Responses Received from Peers via Instagram Direct Messages	CHI	Table3	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+753	754	"Our Users' Privacy is Paramount to Us": A Discourse Analysis of How Period and Fertility Tracking App Companies Address the Roe v Wade Overturn	CHI	Table1	Result	Theme	Source	Table/Matrix	Matrix		Table/Matrix	Theme
+754	755	Encounter with the Giants: Understanding Interaction with Large-scale Inflatable Soft Robots	CHI	Figure10	Result	Theme	Example	Image	Illustration		Image	Theme
+755	756	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure3	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+756	757	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure4	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+757	758	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure5	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+758	759	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure6	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+759	760	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure7	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+760	761	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure8	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+761	762	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure9	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+762	763	"Ronaldo's a poser!": How the Use of Generative AI Shapes Debates in Online Forums	CHI	Figure10	Result	Theme	Example	Image	Network diagram, Screenshot		Diagram, Image	Theme
+763	764	Incorporating Sustainability in Electronics Design: Obstacles and Opportunities	CHI	Figure2	Result	Theme	Example	Image	Photo, Screenshot		Image	Theme
+764	765	Incorporating Sustainability in Electronics Design: Obstacles and Opportunities	CHI	Figure3	Result	Theme	Example	Image	Photo, Screenshot		Image	Theme
+765	766	Incorporating Sustainability in Electronics Design: Obstacles and Opportunities	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+766	767	Exploring the Nexus of Technology and Food Practices in Young Adults: A Value-Sensitive Design Perspective towards Human-Food Interaction	CHI	Figure2	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+767	768	Exploring the Nexus of Technology and Food Practices in Young Adults: A Value-Sensitive Design Perspective towards Human-Food Interaction	CHI	Figure4	Result	Theme	Taxonomy	Diagram	Block diagram		Diagram	Theme
+768	769	Exploring the Nexus of Technology and Food Practices in Young Adults: A Value-Sensitive Design Perspective towards Human-Food Interaction	CHI	Figure5	Result	Theme	tOther, cOther	Chart	Quadrant chart			Theme
+769	770	Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach	CHI	Table3	Result	Theme	Taxonomy	Table/Matrix	Table		Table/Matrix	Theme
+770	771	Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+771	772	Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+772	773	Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+773	774	Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+774	775	Development of an LLM-Based Chatbot to Support Learnability in Stardew Valley: A Diary Study Approach	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+775	776	Hiding in Plain Sight: Understanding the Everyday Practices and Challenges of Car Dwellers	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+776	777	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+777	778	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Table2	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+778	779	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Table3	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+779	780	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Table4	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+780	781	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Table5	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+781	782	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Table6	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+782	783	Game Changers: Exploring Player Perspectives of Digital Game Modification	CHI	Table7	Result	Theme	Taxonomy, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+783	784	Do Entropic Measurements of the Diversity of AI-generated Images Match Human Judgement?	CHI	Table2	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+784	785	RIP Moxie: Lessons for Supporting Emotional Detachment at Product End-of-Life through a Case Study of a Social Companion Robot	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Block diagram, Illustration		Diagram, Image	Concept
+785	786	Exploring Teacher-Chatbot Interaction and Affect in Block-Based Programming	CHI	Table6	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+786	787	Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+787	788	More Than a Dictionary: How AI Scaffolds the Journey from Digital Outsider to Insider	CHI	Table2	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+788	789	An LLM-Based Motivation-Aware Framework For AI Coaching For Behaviour Change	CHI	Table3	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+789	790	An LLM-Based Motivation-Aware Framework For AI Coaching For Behaviour Change	CHI	Table4	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+790	791	Augmenting Clinical Decision-Making with an Interactive and Interpretable AI Copilot: A Real-World User Study with Clinicians in Nephrology and Obstetrics	CHI	Figure3	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+791	792	Augmenting Clinical Decision-Making with an Interactive and Interpretable AI Copilot: A Real-World User Study with Clinicians in Nephrology and Obstetrics	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+792	793	Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+793	794	Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+794	795	Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design	CHI	Table2	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+795	796	What's the Point? How Users Functionalise Points in Gamified Systems	CHI	Figure10	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+796	797	What's the Point? How Users Functionalise Points in Gamified Systems	CHI	Table3	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+797	798	The Hidden Desires: Exploring Chinese Women's Erotic Role-Play with AI Chatbots	CHI	Table2	Result	Theme	Taxonomy, Example	Table/Matrix	Table		Table/Matrix	Theme
+798	799	The Hidden Desires: Exploring Chinese Women's Erotic Role-Play with AI Chatbots	CHI	Figure1	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+799	800	The Hidden Desires: Exploring Chinese Women's Erotic Role-Play with AI Chatbots	CHI	Figure2	Result	Theme	Example	Table/Matrix	Table		Table/Matrix	Theme
+800	801	Small Talk, Big Impact: The Role of Everyday Conversations in Cybersecurity Practices	CHI	Figure10	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+801	802	Surveillance as Care: Configuring Baby Monitors in the Home	CHI	Figure1	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+802	803	Credibility Matters: Motivations, Characteristics, and Influence Mechanisms of Crypto Key Opinion Leaders	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Other diagram	Axis diagram?	Diagram	Concept
+803	804	Bridging Gulfs in UI Generation through Semantic Guidance	CHI	Figure2	Method	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+804	805	Hacking Flow: From Lived Practices to Innovation	CHI	Figure1	Result	Theme	Definition	Image	Illustration		Image	Theme
+805	806	Hacking Flow: From Lived Practices to Innovation	CHI	Figure3	Result	Theme	Definition	Image	Illustration		Image	Theme
+806	807	Hacking Flow: From Lived Practices to Innovation	CHI	Table3	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+807	808	Hacking Flow: From Lived Practices to Innovation	CHI	Figure4	Result	Theme	Definition	Image	Illustration		Image	Theme
+808	809	Hacking Flow: From Lived Practices to Innovation	CHI	Figure5	Result	Theme	Definition	Image	Illustration		Image	Theme
+809	810	Hacking Flow: From Lived Practices to Innovation	CHI	Table4	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+810	811	Hacking Flow: From Lived Practices to Innovation	CHI	Table5	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+811	812	Hacking Flow: From Lived Practices to Innovation	CHI	Figure6	Result	Theme	Definition	Image	Illustration		Image	Theme
+812	813	Hacking Flow: From Lived Practices to Innovation	CHI	Table6	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+813	814	Hacking Flow: From Lived Practices to Innovation	CHI	Figure9	Result	Quantitative	Frequency	Chart	Grouped bar		Chart	Quantitative
+814	815	Hacking Flow: From Lived Practices to Innovation	CHI	Figure11	Result	Quantitative	Objectively-measured	Chart	Grouped bar		Chart	Quantitative
+815	816	GG Go Next... Lobby: How Players Use Queue Dodging to Anticipate and Avoid Negative Experiences in League of Legends	CHI	Figure3	Result	Theme	Taxonomy, Definition	Diagram	Block diagram		Diagram	Theme
+816	817	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure1	Result	Concept	Design insight	Image	Illustration		Image	Concept
+817	818	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure4	Result	Theme	Taxonomy	Diagram	Block diagram		Diagram	Theme
+818	819	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Table3	Result	Theme	tOther, Example	Table/Matrix	Table		Table/Matrix	Theme
+819	820	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Table4	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+820	821	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Table5	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+821	822	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure6	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+822	823	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure7	Discussion	Concept	cExample	Image	Illustration		Image	Concept
+823	824	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure8	Discussion	Concept	cExample	Image	Illustration		Image	Concept
+824	825	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure9	Discussion	Concept	cExample	Image	Illustration		Image	Concept
+825	826	Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives	CHI	Figure10	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+826	827	Roaming with a Robot: Analyzing the Experiences and Understanding the Dimensions of Designing Human-Robot Walking Interactions	CHI	Figure1	Result	Theme	Taxonomy	Diagram	Block diagram		Diagram	Theme
+827	828	Roaming with a Robot: Analyzing the Experiences and Understanding the Dimensions of Designing Human-Robot Walking Interactions	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Block diagram		Diagram	Concept
+828	829	The AI Genie Phenomenon and Three Types of AI Chatbot Addiction: Escapist Roleplays, Pseudosocial Companions, and Epistemic Rabbit Holes	CHI	Figure1	Result	Quantitative	Frequency	Chart	Bar chart, Matrix	set visualization	Chart, Table/Matrix	Quantitative
+829	830	The AI Genie Phenomenon and Three Types of AI Chatbot Addiction: Escapist Roleplays, Pseudosocial Companions, and Epistemic Rabbit Holes	CHI	Table1	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+830	831	The AI Genie Phenomenon and Three Types of AI Chatbot Addiction: Escapist Roleplays, Pseudosocial Companions, and Epistemic Rabbit Holes	CHI	Figure2	Result	Quantitative	Objectively-measured	Chart	Other chart		Chart	Quantitative
+831	832	The AI Genie Phenomenon and Three Types of AI Chatbot Addiction: Escapist Roleplays, Pseudosocial Companions, and Epistemic Rabbit Holes	CHI	Table2	Discussion	Theme	Design insight, Definition, tOther	Table/Matrix	Table		Table/Matrix	Concept, Theme
+832	833	The AI Genie Phenomenon and Three Types of AI Chatbot Addiction: Escapist Roleplays, Pseudosocial Companions, and Epistemic Rabbit Holes	CHI	Figure3	Discussion	Quantitative	Objectively-measured	Chart	Other chart		Chart	Quantitative
+833	834	"I don't want to break it": An Exploration of Perceived Fragility in Shape-Changing Interfaces	CHI	Figure6	Result	Theme	Taxonomy	Diagram	Other diagram		Diagram	Theme
+834	835	"I don't want to break it": An Exploration of Perceived Fragility in Shape-Changing Interfaces	CHI	Table1	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+835	836	Staring at Tables: Exploring Conceptual Data Modeling as a Rich Collaborative Activity	CHI	Table3	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+836	837	Staring at Tables: Exploring Conceptual Data Modeling as a Rich Collaborative Activity	CHI	Table4	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+837	838	Staring at Tables: Exploring Conceptual Data Modeling as a Rich Collaborative Activity	CHI	Table6	Result	Theme	Definition, Example	Table/Matrix	Table, Illustration		Image, Table/Matrix	Theme
+838	839	Staring at Tables: Exploring Conceptual Data Modeling as a Rich Collaborative Activity	CHI	Table7	Result	Theme	Definition, Example	Table/Matrix	Table, Illustration		Image, Table/Matrix	Theme
+839	840	Staring at Tables: Exploring Conceptual Data Modeling as a Rich Collaborative Activity	CHI	Table8	Result	Theme	Definition, Example	Table/Matrix	Table, Illustration		Image, Table/Matrix	Theme
+840	841	Grassroots Maker Perspectives on Participation in Do-It-Yourself Assistive Technology Development	CHI	Table2	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+841	842	Grassroots Maker Perspectives on Participation in Do-It-Yourself Assistive Technology Development	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+842	843	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure5	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+843	844	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure6	Result	Concept	Model/Framework	Diagram	Euler diagram		Diagram	Concept
+844	845	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure7	Result	Theme	Example	Diagram	Timeline diagram, Screenshot		Image	Theme
+845	846	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+846	847	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure9	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+847	848	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure10	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+848	849	"Computer Says No": Disabled Welfare Experiences and Envisioned Futures Under AI Governance	CHI	Figure11	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+849	850	Understanding the Dynamics of Trust in Location-Based Games as Hybrid Spaces: The Players' Perspective	CHI	Table2	Result	Theme	Taxonomy, Definition, tOther	Table/Matrix	Table		Table/Matrix	Theme
+850	851	Understanding the Dynamics of Trust in Location-Based Games as Hybrid Spaces: The Players' Perspective	CHI	Figure2	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+851	852	Going Beyond the I With CI: an Interview-based Design Space	CHI	Table2	Result	Theme	Definition, tOther	Table/Matrix	Table		Table/Matrix	Theme
+852	853	Going Beyond the I With CI: an Interview-based Design Space	CHI	Table3	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+853	854	A Tale of Many Futures: Children in Finland and India Envision the Future of Education	CHI	Table3	Result	Theme	Taxonomy, Definition	Table/Matrix	Table		Table/Matrix	Theme
+854	855	A Tale of Many Futures: Children in Finland and India Envision the Future of Education	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+855	856	A Tale of Many Futures: Children in Finland and India Envision the Future of Education	CHI	Figure4	Result	Theme	Example	Image	Sketch		Image	Theme
+856	857	A Tale of Many Futures: Children in Finland and India Envision the Future of Education	CHI	Figure5	Result	Theme	Example	Image	Sketch		Image	Theme
+857	858	Performing Technology: A Five Year Long Autoetnography	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+858	859	Performing Technology: A Five Year Long Autoetnography	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+859	860	Performing Technology: A Five Year Long Autoetnography	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+860	861	Performing Technology: A Five Year Long Autoetnography	CHI	Figure8	Result	Theme	Example	Image	Screenshot		Image	Theme
+861	862	Small Talk, Big Impact? LLM-based Conversational Agents to Mitigate Passive Fatigue in Conditional Automated Driving	CHI	Table1	Discussion	Concept	Model/Framework	Table/Matrix	Table		Table/Matrix	Concept
+862	863	Ambiguous Loss: Facilitating Refugee Families' Sense of Home through AI-Powered Storytelling	CHI	Figure1	Result	Theme	Example	Diagram	Network diagram, Screenshot, Photo		Diagram, Image	Theme
+863	864	Ambiguous Loss: Facilitating Refugee Families' Sense of Home through AI-Powered Storytelling	CHI	Figure2	Result	Theme	Example	Diagram	Network diagram, Screenshot, Photo		Diagram, Image	Theme
+864	865	Ambiguous Loss: Facilitating Refugee Families' Sense of Home through AI-Powered Storytelling	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+865	866	Ambiguous Loss: Facilitating Refugee Families' Sense of Home through AI-Powered Storytelling	CHI	Figure4	Result	Theme	Example	Diagram	Network diagram, Screenshot, Photo		Diagram, Image	Theme
+866	867	Ambiguous Loss: Facilitating Refugee Families' Sense of Home through AI-Powered Storytelling	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+867	868	Advancing Inclusive Digital Well-Being Tools: How Neurodivergent Students Use Distraction Blockers	CHI	Table1	Result	Theme	Taxonomy, tOther	Table/Matrix	Table		Table/Matrix	Theme
+868	869	A Conditional Companion: Lived Experiences of People with Mental Health Disorders Using LLMs: Conditional Companion: LLMs &amp; Mental Health	CHI	Table2	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+869	870	A Conditional Companion: Lived Experiences of People with Mental Health Disorders Using LLMs: Conditional Companion: LLMs &amp; Mental Health	CHI	Table3	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+870	871	A Conditional Companion: Lived Experiences of People with Mental Health Disorders Using LLMs: Conditional Companion: LLMs &amp; Mental Health	CHI	Table4	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+871	872	A Conditional Companion: Lived Experiences of People with Mental Health Disorders Using LLMs: Conditional Companion: LLMs &amp; Mental Health	CHI	Figure1	Result	Concept	Model/Framework	Diagram	Block diagram, Illustration		Diagram, Image	Concept
+872	873	Navigating Postpartum: Exploring Lived and Professional Perspectives to Inform Supportive Technology Design	CHI	Figure3	Result	Theme	Example	Image	Screenshot		Image	Theme
+873	874	Navigating Postpartum: Exploring Lived and Professional Perspectives to Inform Supportive Technology Design	CHI	Figure4	Result	Theme	Example	Image	Screenshot		Image	Theme
+874	875	Navigating Postpartum: Exploring Lived and Professional Perspectives to Inform Supportive Technology Design	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+875	876	Navigating Postpartum: Exploring Lived and Professional Perspectives to Inform Supportive Technology Design	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+876	877	Navigating Postpartum: Exploring Lived and Professional Perspectives to Inform Supportive Technology Design	CHI	Figure7	Result	Theme	Example	Image	Screenshot		Image	Theme
+877	878	Does Background Music Matter in Data Videos? A Study of Music's Impact on Persuasion, Engagement, and Recall	CHI	Figure1	Result	Theme	Example	Diagram	Block diagram		Diagram	Theme
+878	879	Beyond a Conventional Chatbot: How AI Streamers Transcend Live Streaming Experiences from Viewers' Perspectives	CHI	Table1	Result	Theme	Taxonomy, Definition, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+879	880	An Exploratory Study of Sociotechnical Issues for Anti-Money Laundering Workers	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+880	881	"No One Should Know I Used This App": Challenges and Design Opportunities for Digital Mental Well-Being Support for Young Saudi Women	CHI	Figure2	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+881	882	"No One Should Know I Used This App": Challenges and Design Opportunities for Digital Mental Well-Being Support for Young Saudi Women	CHI	Table4	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+882	883	Negotiating Digital Identities with AI Companions: Motivations, Strategies, and Emotional Outcomes	CHI	Figure3	Result	Theme	Taxonomy, Frequency	Chart	Bar chart		Chart	Quantitative, Theme
+883	884	Negotiating Digital Identities with AI Companions: Motivations, Strategies, and Emotional Outcomes	CHI	Figure4	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+884	885	Negotiating Digital Identities with AI Companions: Motivations, Strategies, and Emotional Outcomes	CHI	Figure5	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+885	886	Negotiating Digital Identities with AI Companions: Motivations, Strategies, and Emotional Outcomes	CHI	Figure6	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+886	887	Addressing Procedural and Tooling Challenges in Juvenile Justice: Towards Responsible and Human-Centered Design	CHI	Figure2	Discussion	Concept	cExample	Image	Screenshot		Image	Concept
+887	888	Addressing Procedural and Tooling Challenges in Juvenile Justice: Towards Responsible and Human-Centered Design	CHI	Figure3	Discussion	Concept	cExample	Image	Screenshot		Image	Concept
+888	889	Addressing Procedural and Tooling Challenges in Juvenile Justice: Towards Responsible and Human-Centered Design	CHI	Figure4	Discussion	Concept	cExample	Image	Screenshot		Image	Concept
+889	890	Framing 'Collaboration': How Human-Human Principles Translate into Human-AI Realities	CHI	Table1	Result	Theme	Taxonomy, Source, Objectively-measured	Table/Matrix	Table, Other chart		Chart, Table/Matrix	Quantitative, Theme
+890	891	Exploring Aggressors' In‑Match Cognitive and Emotional Formation and Toxic Behavior Trajectories in MOBA Games	CHI	Table2	Result	Theme	Taxonomy, Definition, Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+891	892	Exploring Aggressors' In‑Match Cognitive and Emotional Formation and Toxic Behavior Trajectories in MOBA Games	CHI	Figure8	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+892	893	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Table1	Result	Theme	Definition, Example, Source	Table/Matrix	Table		Table/Matrix	Theme
+893	894	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Figure2	Result	Quantitative	Frequency	Chart	Bar chart		Chart	Quantitative
+894	895	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Figure3	Result	Quantitative	Frequency, cExample	Chart, Diagram	Bar chart, Network diagram		Chart, Diagram	Concept, Quantitative
+895	896	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Figure5	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+896	897	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Figure6	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+897	898	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Figure7	Discussion	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+898	899	Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making	CHI	Table7	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+899	900	An Expert Schema for Evaluating Large Language Model Errors in Scholarly Question-Answering Systems	CHI	Figure2	Result	Quantitative	Objectively-measured	Chart	Heatmap		Table/Matrix	Quantitative
+900	901	Designed for Hostility? Toxic Behavior and Ambivalent Game Elements in Online Multiplayer Game Genres	CHI	Table8	Result	Theme	tOther	Table/Matrix	Table		Table/Matrix	Theme
+901	902	Designed for Hostility? Toxic Behavior and Ambivalent Game Elements in Online Multiplayer Game Genres	CHI	Table9	Result	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+902	903	"Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals	CHI	Figure2	Result	Theme	Example	Image	Sketch		Image	Theme
+903	904	"Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals	CHI	Figure3	Result	Theme	Example	Image	Sketch		Image	Theme
+904	905	"Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals	CHI	Figure4	Result	Theme	Example	Image	Sketch		Image	Theme
+905	906	"Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals	CHI	Figure5	Result	Theme	Example	Image	Screenshot		Image	Theme
+906	907	"Chasing Shadows": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals	CHI	Figure6	Result	Theme	Example	Image	Screenshot		Image	Theme
+907	908	"Should I Rely on You or the AI?" Leaders' Trust and Perceptions in Mixed Human-AI Teams	CHI	Table7	Result	Theme	Taxonomy, Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
+908	909	"Should I Rely on You or the AI?" Leaders' Trust and Perceptions in Mixed Human-AI Teams	CHI	Figure12	Result	Quantitative	Frequency	Chart	Grouped bar		Chart	Quantitative
+909	910	"Should I Rely on You or the AI?" Leaders' Trust and Perceptions in Mixed Human-AI Teams	CHI	Figure13	Result	Quantitative	Self-reported	Chart	Heatmap		Table/Matrix	Quantitative
+910	911	Funding AI for Good: A Call for Meaningful Engagement	CHI	Figure2	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+911	912	Funding AI for Good: A Call for Meaningful Engagement	CHI	Figure3	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+912	913	Funding AI for Good: A Call for Meaningful Engagement	CHI	Figure4	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+913	914	Funding AI for Good: A Call for Meaningful Engagement	CHI	Figure5	Result	Theme	Taxonomy	Diagram	Network diagram		Diagram	Theme
+914	915	The Golden Goose of Toxicity: Turning Hostility into Platform Revenue	CHI	Table5	Discussion	Concept	Design insight	Table/Matrix	Table		Table/Matrix	Concept
+915	916	When Your Therapist Is an Algorithm: Understanding the Role of AI in Mental Health Mobile Applications	CHI	Table1	Result	Quantitative	Frequency	Table/Matrix	Table		Table/Matrix	Quantitative
+916	917	When Your Therapist Is an Algorithm: Understanding the Role of AI in Mental Health Mobile Applications	CHI	Table2	Result	Quantitative	Self-reported	Chart	Grouped bar, Range symbol		Chart	Quantitative
+917	918	When Your Therapist Is an Algorithm: Understanding the Role of AI in Mental Health Mobile Applications	CHI	Table2	Result	Theme	Taxonomy, Definition, Example, tOther	Table/Matrix	Table		Table/Matrix	Theme
+918	919	Beyond Euphemisms: Rethinking LLMs for SRH in Conservative Contexts	CHI	Table2	Result	Theme	Example, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+919	920	Vibe Coding Entanglements – Repositioning Boundaries of Intention, Authorship, and Responsibility in Programming with Generative AI	CHI	Figure3	Result	Theme	Example	Diagram	Block diagram		Diagram	Theme
+920	921	Vibe Coding Entanglements – Repositioning Boundaries of Intention, Authorship, and Responsibility in Programming with Generative AI	CHI	Figure4	Result	Theme	Example	Diagram	Block diagram		Diagram	Theme
+921	922	Vibe Coding Entanglements – Repositioning Boundaries of Intention, Authorship, and Responsibility in Programming with Generative AI	CHI	Figure5	Result	Theme	Example	Diagram	Block diagram		Diagram	Theme
+922	923	Vibe Coding Entanglements – Repositioning Boundaries of Intention, Authorship, and Responsibility in Programming with Generative AI	CHI	Figure6	Discussion	Concept	cExample	Image	Sketch		Image	Concept
+923	924	Belonging in the Making: Investigating Inclusive Makerspace Design for Youth with Autism	CHI	Table2	Result	Theme	Taxonomy, Definition, tOther	Table/Matrix	Table		Table/Matrix	Theme
+924	925	Mental Health Impacts of AI Companions: Triangulating Social Media Quasi-Experiments, User Perspectives, and Relational Lens	CHI	Figure3	Result	Concept	Model/Framework	Diagram	Network diagram		Diagram	Concept
+925	926	Understanding Remote Mental Health Supporters' Help-Seeking in Online Communities	CHI	Table6	Result	Theme	Taxonomy, Frequency	Table/Matrix	Table		Table/Matrix	Quantitative, Theme
+926	927	Hybrid LLM-Embedded Dialogue Agents for Learner Reflection: Designing Responsive and Theory-Driven Interactions	CHI	Table1	Result	Theme	Definition, Example	Table/Matrix	Table		Table/Matrix	Theme
