@@ -3,15 +3,13 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main # main 브랜치에 push될 때 실행 (master라면 master로 변경)
+      - main
 
-# GitHub Pages 배포를 위한 권한 설정
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# 동시 배포 실행을 막기 위한 설정
 concurrency:
   group: 'pages'
   cancel-in-progress: true
@@ -30,13 +28,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: 'npm' # yarn이나 pnpm 사용 시 맞춰서 변경
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci # 또는 npm install / yarn install
+        run: npm install
 
       - name: Build React App
         run: npm run build
+        env:
+          CI: false
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -44,10 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # ★ 핵심: 빌드 결과물 폴더 경로 설정 ★
-          # Create React App (CRA) 사용 시: './build'
-          # Vite 사용 시: './dist'
-          path: './build'
+          path: './dist' 
 
       - name: Deploy to GitHub Pages
         id: deployment
